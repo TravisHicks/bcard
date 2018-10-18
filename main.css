@@ -180,7 +180,7 @@ img.profile-pic {
 	font-weight: 300;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1200px) {
   img.profile-pic {
     height: 100%;
     width: 100%;
